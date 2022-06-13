@@ -1,0 +1,5 @@
+sql_person_id, sql_name, sql_age, sql_favorite_color
+bob, 20, blue
+bill, 21, green
+jane, 22, red
+jill, 23, yellow
